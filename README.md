@@ -1,3 +1,3 @@
 # hello world
 
-a tour of modern workflow
+a tour of github workflow
