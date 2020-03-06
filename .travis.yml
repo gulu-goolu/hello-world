@@ -4,4 +4,4 @@ services:
 before_install:
         - echo "hello world"
 script:
-        - bash run_all_tests.sh
+        - make
